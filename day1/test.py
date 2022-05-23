@@ -15,3 +15,8 @@ print(var1)
 _ad = 19
 print(_ad)
 # 변수명은  대소문자를 구분한다
+RemainOfBankAccount = 18
+바 = 13
+print(바)
+
+print(var1 == 바)
