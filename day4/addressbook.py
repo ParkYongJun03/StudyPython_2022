@@ -5,10 +5,8 @@
 작성자 liam
 설명 파일DB를 활용한 주소록 프로그램 테스트
 '''
-from logging import exception
-import os
 
-from traitlets import Bool  # 운영체제 명령용 모듈
+import os
 # 주소록 클래스
 Version = 4
 
@@ -37,7 +35,7 @@ class contact:
             '=============================='
         return res_str
 
-    def isNameExist(self, name) -> Bool:
+    def isNameExist(self, name) -> bool:
         if self.name == name:
             return True
         else:
