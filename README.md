@@ -35,7 +35,7 @@
 
 #### 주소록 프로그램
 
-- 굉장한걸 했다
+- 중요!
   - 클래스
   - 함수
   - 흐름제어
@@ -49,6 +49,11 @@
 ## 5일차
 
 - 가상환경
+- ![image](https://user-images.githubusercontent.com/83456300/173179258-685a2293-6d97-4594-88f3-255f8905d86b.png)
+  cd WebCrawling/Scripts
+  activate
+  cd {venvDir}/Scripts
+  activate
 - 팁
 - --------오후에는------
 - 코딩 테스트 연습
